@@ -10,7 +10,7 @@ You can invite the bot to your discord server here: [Bot Invite Link](https://di
 
 ## Usage
 
-**@MDS [Message]**   
+**@ChatGPT [Message]**   
 
 ## Screenshot
 
